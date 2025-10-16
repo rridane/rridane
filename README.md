@@ -61,9 +61,9 @@ They explain complex concepts in a clear way and serve as practical learning mat
 > 🔗 Discover all sheets in the [**public-notes-rr**](https://github.com/rridane/public-notes-rr) repository.
 
 
-### 🎨 Specific zoom on Flutter Deep Dives
+## 🎨 Specific zoom on Flutter Deep Dives
 
-A selection of **advanced technical explorations** of Flutter’s internal architecture — from gesture handling to the rendering pipeline.  
+I specifically enjoy flutter, here you'll find a selection of **advanced technical explorations** of Flutter’s internal architecture — from gesture handling to the rendering pipeline.  
 These documents go beyond the framework’s public API to explain **how Flutter really works under the hood**.
 
 | Deep Dive                                                                                                              | Content                                                                 | Level                |
