@@ -50,16 +50,16 @@ A curated selection of modular tools for **CTOs, Platform Engineers, and VP Engi
 Beyond the code, I also share **technical sheets** and *deep dives* that I use to teach and document.
 They explain complex concepts in a clear way and serve as practical learning material for engineering teams.
 
-| Sheet                                                                                                                  | Content                                                      | Level                   |
-| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ----------------------- |
-| [**Ultimate Scaleup Kit**](https://github.com/rridane/public-notes-rr/blob/main/ultimate_scaleup_kit.adoc)             | Strategies and patterns to scale an organization effectively | CTO Vision              |
-| [**Kubernetes Networking**](https://github.com/rridane/public-notes-rr/blob/main/devops/kubernetes_networking.adoc)    | CNI, services, network policies, overlay/underlay            | Intermediate / Advanced |
-| [**OAuth2**](https://github.com/rridane/public-notes-rr/blob/main/security/authentication_mechanisms/oauth2.adoc)      | Authentication flows, grant types, best practices            | Fundamental             |
-| [**SAML Cheatsheet**](https://github.com/rridane/public-notes-rr/blob/main/cheatsheets/saml_cheatsheet.adoc)           | Condensed reminders, assertions, and diagrams                | Cheat Sheet             |
-| [**DNS Basic**](https://github.com/rridane/public-notes-rr/blob/main/networking/protocols/dns/dns_basic_overview.adoc) | DNS fundamentals (zones, TTL, resolution)                    | Beginner                |
-| [**DNS Advanced**](https://github.com/rridane/public-notes-rr/blob/main/networking/protocols/dns/dns_advanced.adoc)    | Advanced cases, delegations, and optimizations               | Advanced                |
-| [**Flutter Internal Framework**](https://github.com/rridane/public-notes-rr/blob/main/frontend/flutter/deep_dive_flutter_internal_framework.adoc) | Explore the internal bindings, build pipeline, and scheduler mechanics of Flutter. | Advanced             |
-| [**Gesture Handling**](https://github.com/rridane/public-notes-rr/blob/main/frontend/flutter/deep_dive_gesture_handling.adoc) | Understanding the gesture system: hit testing, gesture arena, and event dispatching. | Advanced             |
+| Sheet                                                                                                                                                 | Content                                                      | Level                   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------| ------------------------------------------------------------ | ----------------------- |
+| [**Ultimate Scaleup Kit**](https://github.com/rridane/public-notes-rr/blob/main/ultimate_scaleup_kit.adoc)                                            | Strategies and patterns to scale an organization effectively | CTO Vision              |
+| [**Kubernetes Networking**](https://github.com/rridane/public-notes-rr/blob/main/devops/kubernetes_networking.adoc)                                   | CNI, services, network policies, overlay/underlay            | Intermediate / Advanced |
+| [**OAuth2**](https://github.com/rridane/public-notes-rr/blob/main/security/authentication_mechanisms/oauth2.adoc)                                     | Authentication flows, grant types, best practices            | Fundamental             |
+| [**SAML Cheatsheet**](https://github.com/rridane/public-notes-rr/blob/main/cheatsheets/saml_cheatsheet.adoc)                                          | Condensed reminders, assertions, and diagrams                | Cheat Sheet             |
+| [**DNS Basic**](https://github.com/rridane/public-notes-rr/blob/main/networking/protocols/dns/dns_basic_overview.adoc)                                | DNS fundamentals (zones, TTL, resolution)                    | Beginner                |
+| [**DNS Advanced**](https://github.com/rridane/public-notes-rr/blob/main/networking/protocols/dns/dns_advanced.adoc)                                   | Advanced cases, delegations, and optimizations               | Advanced                |
+| [**Deep dive on Flutter Framework**](https://github.com/rridane/public-notes-rr/blob/main/frontend/flutter/deep_dive_flutter_internal_framework.adoc) | Explore the internal bindings, build pipeline, and scheduler mechanics of Flutter. | Advanced             |
+| [**Deep dive on Flutter Gesture Handling**](https://github.com/rridane/public-notes-rr/blob/main/frontend/flutter/deep_dive_gesture_handling.adoc)    | Understanding the gesture system: hit testing, gesture arena, and event dispatching. | Advanced             |
 
 
 > 🔗 Discover all sheets in the [**public-notes-rr**](https://github.com/rridane/public-notes-rr) repository.
