@@ -1,35 +1,31 @@
-# 🧩 rridane 
+Welcome 👋
 
-> Building, scaling, and teaching modern cloud-native platforms
+Here you’ll find all the **tools I use daily** to:
 
-Bienvenue 👋
+* Maintain a **state-of-the-art cloud-native platform**
+* Optimize the developer experience and deployment metrics
+* Mentor and train **junior and senior developers** alike
 
-Vous trouverez ici tous les **outils que j’utilise au quotidien** pour :
-
-* Maintenir une plateforme **cloud-native à l’état de l’art**
-* Optimiser l'expérience dev et les statistiques de déploiements
-* Accompagner et former des **développeurs juniors** comme des plus expérimentés
-
-Une sélection d’outils modulaires pour **CTOs, Platform Engineers et VP Engineering**, couvrant tout le cycle de vie d’une plateforme moderne — du provisioning à la formation des équipes.
+A curated selection of modular tools for **CTOs, Platform Engineers, and VP Engineering**, covering the entire lifecycle of a modern platform — from provisioning to team enablement.
 
 ---
 
 ## ⚙️ Infrastructure as Code (Ansible)
 
-* [**ansible-kubernetes-admin**](https://github.com/rridane/ansible-kubernetes-admin) — Bootstrap de clusters Kubernetes HA (admin, masters, workers, LB)
-* [**ansible-base-systems**](https://github.com/rridane/ansible-base-systems) — Configuration des systèmes de base Linux
+* [**ansible-kubernetes-admin**](https://github.com/rridane/ansible-kubernetes-admin) — Bootstrap HA Kubernetes clusters (admins, masters, workers, load balancers)
+* [**ansible-base-systems**](https://github.com/rridane/ansible-base-systems) — Base system configuration for Linux environments
 
 ---
 
 ## 🐹 Pipelines & Automation (Go)
 
-* [**golang-pipeyard**](https://github.com/rridane/golang-pipeyard) — Puissante librairie Go pour construire des pipelines CLI avec injection automatique de dépendances
+* [**golang-pipeyard**](https://github.com/rridane/golang-pipeyard) — A powerful and elegant Go library to build CLI pipelines with automatic dependency injection
 
 ---
 
 ## 🏗️ Terraform Cloud-Native Kit
 
-* [**terraform-kubernetes-cloudnative-kit**](https://github.com/rridane/terraform-kubernetes-cloudnative-kit) — Ensemble de modules Terraform pour gérer vos composants cloud-native :
+* [**terraform-kubernetes-cloudnative-kit**](https://github.com/rridane/terraform-kubernetes-cloudnative-kit) — A complete Terraform module collection to manage your cloud-native components:
 
   * [OpenTelemetry Collector Generator](https://github.com/rridane/terraform-kubernetes-cloudnative-kit/tree/main/modules/observability-opentelemetry-collector)
   * [Bind9 & DNS Publication Management](https://github.com/rridane/terraform-kubernetes-cloudnative-kit/tree/main/modules/networking-bind9)
@@ -40,27 +36,27 @@ Une sélection d’outils modulaires pour **CTOs, Platform Engineers et VP Engin
 
 ## ☸️ Helm & ArgoCD Cloud-Native Components
 
-* [**Parca**](https://github.com/rridane/helm-argocd-cloudnative-kit/tree/main/parca) — Monitoring applicatif des ressources
-* [**Filebrowser**](https://github.com/rridane/helm-argocd-cloudnative-kit/tree/main/filebrowser) — Explorateur de fichiers web pour vos équipes
+* [**Parca**](https://github.com/rridane/helm-argocd-cloudnative-kit/tree/main/parca) — Application resource profiling and monitoring
+* [**Filebrowser**](https://github.com/rridane/helm-argocd-cloudnative-kit/tree/main/filebrowser) — A web-based file browser for your teams
 
 ---
 
-## 📚 Fiches & Deep Dives
+## 📚 Technical Sheets & Deep Dives
 
-Au-delà du code, je mets à disposition des **fiches techniques** et *deep dives* que j’utilise pour former et transmettre.
-Elles permettent d’expliquer des concepts complexes et servent de support pédagogique pour les équipes.
+Beyond the code, I also share **technical sheets** and *deep dives* that I use to teach and document.
+They explain complex concepts in a clear way and serve as practical learning material for engineering teams.
 
-| Fiche                                                                                                                  | Contenu                                                                   | Niveau                 |
-| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------- |
-| [**Ultimate Scaleup Kit**](https://github.com/rridane/public-notes-rr/blob/main/ultimate_scaleup_kit.adoc)             | Stratégies et patterns pour accompagner la scalabilité d’une organisation | Vision CTO             |
-| [**Kubernetes Networking**](https://github.com/rridane/public-notes-rr/blob/main/devops/kubernetes_networking.adoc)    | CNI, services, policies, overlay/underlay                                 | Intermédiaire / Avancé |
-| [**OAuth2**](https://github.com/rridane/public-notes-rr/blob/main/security/authentication_mechanisms/oauth2.adoc)      | Flux d’authentification, grant types, bonnes pratiques                    | Fondamental            |
-| [**SAML Cheatsheet**](https://github.com/rridane/public-notes-rr/blob/main/cheatsheets/saml_cheatsheet.adoc)           | Rappels condensés, assertions, schémas                                    | Cheat sheet            |
-| [**DNS Basic**](https://github.com/rridane/public-notes-rr/blob/main/networking/protocols/dns/dns_basic_overview.adoc) | Fondamentaux du DNS (zones, TTL, résolutions)                             | Débutant               |
-| [**DNS Advanced**](https://github.com/rridane/public-notes-rr/blob/main/networking/protocols/dns/dns_advanced.adoc)    | Cas complexes, délégations, optimisation                                  | Avancé                 |
+| Sheet                                                                                                                  | Content                                                      | Level                   |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ----------------------- |
+| [**Ultimate Scaleup Kit**](https://github.com/rridane/public-notes-rr/blob/main/ultimate_scaleup_kit.adoc)             | Strategies and patterns to scale an organization effectively | CTO Vision              |
+| [**Kubernetes Networking**](https://github.com/rridane/public-notes-rr/blob/main/devops/kubernetes_networking.adoc)    | CNI, services, network policies, overlay/underlay            | Intermediate / Advanced |
+| [**OAuth2**](https://github.com/rridane/public-notes-rr/blob/main/security/authentication_mechanisms/oauth2.adoc)      | Authentication flows, grant types, best practices            | Fundamental             |
+| [**SAML Cheatsheet**](https://github.com/rridane/public-notes-rr/blob/main/cheatsheets/saml_cheatsheet.adoc)           | Condensed reminders, assertions, and diagrams                | Cheat Sheet             |
+| [**DNS Basic**](https://github.com/rridane/public-notes-rr/blob/main/networking/protocols/dns/dns_basic_overview.adoc) | DNS fundamentals (zones, TTL, resolution)                    | Beginner                |
+| [**DNS Advanced**](https://github.com/rridane/public-notes-rr/blob/main/networking/protocols/dns/dns_advanced.adoc)    | Advanced cases, delegations, and optimizations               | Advanced                |
 
-> 🔗 Retrouvez l’ensemble des fiches dans le repo [**public-notes-rr**](https://github.com/rridane/public-notes-rr)
+> 🔗 Discover all sheets in the [**public-notes-rr**](https://github.com/rridane/public-notes-rr) repository.
 
 ---
 
-> 🌍 **CTO / Head of Engineering opportunity ?** → Contactez-moi en message privé
+> 🌍 **CTO / Head of Engineering opportunity?** → Feel free to reach out via private message
