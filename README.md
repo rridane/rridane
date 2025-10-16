@@ -1,7 +1,6 @@
 # 🧩 rridane
 
-> Building, scaling, and teaching modern cloud-native platforms
-
+> Designing and building end-to-end systems — from resilient cloud-native backends to high-performance front-end experiences.
 Welcome 👋
 
 Here you’ll find all the **tools I use daily** to:
