@@ -1,3 +1,7 @@
+# 🧩 rridane
+
+> Building, scaling, and teaching modern cloud-native platforms
+
 Welcome 👋
 
 Here you’ll find all the **tools I use daily** to:
