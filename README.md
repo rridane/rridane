@@ -58,24 +58,11 @@ They explain complex concepts in a clear way and serve as practical learning mat
 | [**SAML Cheatsheet**](https://github.com/rridane/public-notes-rr/blob/main/cheatsheets/saml_cheatsheet.adoc)           | Condensed reminders, assertions, and diagrams                | Cheat Sheet             |
 | [**DNS Basic**](https://github.com/rridane/public-notes-rr/blob/main/networking/protocols/dns/dns_basic_overview.adoc) | DNS fundamentals (zones, TTL, resolution)                    | Beginner                |
 | [**DNS Advanced**](https://github.com/rridane/public-notes-rr/blob/main/networking/protocols/dns/dns_advanced.adoc)    | Advanced cases, delegations, and optimizations               | Advanced                |
+| [**Flutter Internal Framework**](https://github.com/rridane/public-notes-rr/blob/main/frontend/flutter/deep_dive_flutter_internal_framework.adoc) | Explore the internal bindings, build pipeline, and scheduler mechanics of Flutter. | Advanced             |
+| [**Gesture Handling**](https://github.com/rridane/public-notes-rr/blob/main/frontend/flutter/deep_dive_gesture_handling.adoc) | Understanding the gesture system: hit testing, gesture arena, and event dispatching. | Advanced             |
+
 
 > 🔗 Discover all sheets in the [**public-notes-rr**](https://github.com/rridane/public-notes-rr) repository.
-
-
-## 🎨 Specific zoom on Flutter Deep Dives
-
-I specifically enjoy flutter, here you'll find a selection of **advanced technical explorations** of Flutter’s internal architecture — from gesture handling to the rendering pipeline.  
-These documents go beyond the framework’s public API to explain **how Flutter really works under the hood**.
-
-| Deep Dive                                                                                                              | Content                                                                 | Level                |
-| ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------- |
-| [**Render Objects**](https://github.com/rridane/public-notes-rr/blob/main/frontend/flutter/deep_dive_render_objects.adoc) | Detailed breakdown of Flutter’s rendering engine — from constraints and layout to paint and semantics. | Expert / Engine Core |
-| [**Gesture Handling**](https://github.com/rridane/public-notes-rr/blob/main/frontend/flutter/deep_dive_gesture_handling.adoc) | Understanding the gesture system: hit testing, gesture arena, and event dispatching. | Advanced             |
-| [**Flutter Internal Framework**](https://github.com/rridane/public-notes-rr/blob/main/frontend/flutter/deep_dive_flutter_internal_framework.adoc) | Explore the internal bindings, build pipeline, and scheduler mechanics of Flutter. | Advanced             |
-
-> 🧩 Each deep dive is based on the official Flutter source code and real engine traces,  
-> providing an *inside look* into the framework’s design principles and runtime behavior.
-
 ---
 
 > 🌍 **CTO / Head of Engineering opportunity?** → Feel free to reach out via private message
