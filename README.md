@@ -7,6 +7,7 @@ Here you’ll find all the **tools I use daily** to:
 
 * Maintain a **state-of-the-art cloud-native platform**
 * Optimize the developer experience and deployment metrics
+* Design and build high-performance applications, from front-end experiences to resilient back-end systems
 * Mentor and train **junior and senior developers** alike
 
 A curated selection of modular tools for **CTOs, Platform Engineers, and VP Engineering**, covering the entire lifecycle of a modern platform — from provisioning to team enablement.
