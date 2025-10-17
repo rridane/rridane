@@ -66,3 +66,5 @@ They explain complex concepts in a clear way and serve as practical learning mat
 ---
 
 > 🌍 **CTO / Head of Engineering opportunity?** → Feel free to reach out via private message
+
+![](https://komarev.com/ghpvc/?username=rridane)
