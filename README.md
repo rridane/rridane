@@ -27,7 +27,7 @@ A curated selection of modular tools for **CTOs, Platform Engineers, and VP Engi
 
 ---
 
-## ✍ Terraform Cloud-Native Kit
+## ✏ Terraform Cloud-Native Kit
 
 * [**terraform-kubernetes-cloudnative-kit**](https://github.com/rridane/terraform-kubernetes-cloudnative-kit) — A complete Terraform module collection to manage your cloud-native components:
 
