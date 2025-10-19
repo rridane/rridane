@@ -21,13 +21,13 @@ A curated selection of modular tools for **CTOs, Platform Engineers, and VP Engi
 
 ---
 
-## 🐹 Pipelines & Automation (Go)
+## 🚚 Pipelines & Automation (Go)
 
 * [**golang-pipeyard**](https://github.com/rridane/golang-pipeyard) — A powerful and elegant Go library to build CLI pipelines with automatic dependency injection
 
 ---
 
-## 🏗️ Terraform Cloud-Native Kit
+## ✍ Terraform Cloud-Native Kit
 
 * [**terraform-kubernetes-cloudnative-kit**](https://github.com/rridane/terraform-kubernetes-cloudnative-kit) — A complete Terraform module collection to manage your cloud-native components:
 
