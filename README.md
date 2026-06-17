@@ -10,7 +10,7 @@ Here you’ll find all the **tools I use daily** to:
 * Design and build high-performance applications, from front-end experiences to resilient back-end systems
 * Mentor and train **junior and senior developers** alike
 
-A curated selection of modular tools for **CTOs, Platform Engineers, and VP Engineering**, covering the entire lifecycle of a modern platform — from provisioning to team enablement.
+A curated selection of modular tools — spanning the full lifecycle of a modern platform: provisioning, software architecture, observability, and developer experience.
 
 ---
 
@@ -31,7 +31,7 @@ A curated selection of modular tools for **CTOs, Platform Engineers, and VP Engi
 
 * [**terraform-kubernetes-cloudnative-kit**](https://github.com/rridane/terraform-kubernetes-cloudnative-kit) — A complete Terraform module collection to manage your cloud-native components:
 
-  * [OpenTelemetry Collector Generator](https://github.com/rridane/terraform-kubernetes-cloudnative-kit/tree/main/modules/observability-opentelemetry-collector)
+  * [OpenTelemetry Collector Generator](https://github.com/rridane/terraform-kubernetes-cloudnative-kit/tree/main/modules/monitoring-opentelemetry)
   * [Bind9 & DNS Publication Management](https://github.com/rridane/terraform-kubernetes-cloudnative-kit/tree/main/modules/networking-bind9)
   * [Ingress Route Management](https://github.com/rridane/terraform-kubernetes-cloudnative-kit/tree/main/modules/networking-ingress-route-transformer)
   * [Cert-Manager TLS Management](https://github.com/rridane/terraform-kubernetes-cloudnative-kit/tree/main/modules/security-cert-manager)
@@ -65,6 +65,6 @@ They explain complex concepts in a clear way and serve as practical learning mat
 > 🔗 Discover all sheets in the [**public-notes-rr**](https://github.com/rridane/public-notes-rr) repository.
 ---
 
-> 🌍 **CTO / Head of Engineering opportunity?** → Feel free to reach out via private message
+> 🌍 **Open to staff / principal engineer & architect roles where deep systems engineering meets software architecture — with a focus on observability & AIOps — or to building something ambitious together.** → reach out by DM
 
 ![](https://hit.yhype.me/github/profile?account_id=34446644)
