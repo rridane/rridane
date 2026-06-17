@@ -73,8 +73,6 @@ Beyond the code, I also share **technical sheets** and *deep dives* that I use t
 * [CloudNativePG — Postgres HA on Kubernetes](https://github.com/rridane/public-notes-rr/blob/main/databases/cloudnative-pg-operator.adoc) — failover, backup, and replication on Kubernetes _(Advanced)_
 * [Probability, Bernoulli → Bayes](https://github.com/rridane/public-notes-rr/blob/main/mathematics/probability/bayes.adoc) — probability from the ground up _(Fundamental)_
 
-> 🔗 ~250 more in [public-notes-rr](https://github.com/rridane/public-notes-rr)
-
 ---
 
 > 🌍 **Any role where deep systems engineering meets software architecture — especially around observability & AIOps — or something ambitious to build together? Feel free to reach out.**
