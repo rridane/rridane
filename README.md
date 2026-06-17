@@ -52,31 +52,31 @@ A curated selection of modular tools — spanning the full lifecycle of a modern
 
 ## 📚 Engineering deep-dives
 
-Not summaries — each one rebuilds a system from first principles: down to the wire format, the kernel path, or the framework source.
+Beyond the code, I also share **technical sheets** and *deep dives* that I use to teach and document. They explain complex concepts in a clear way and serve as practical learning material for engineering teams.
 
 **🖧 Systems & networking**
-* [HTTP/1 → HTTP/3 & gRPC](https://github.com/rridane/public-notes-rr/blob/main/networking/protocols/from_http_to_http3_and_grpc.adoc) — why the stream-id is the pivot invention; multiplexing, HPACK, QUIC over UDP, gRPC anatomy
-* [Linux kernel networking (L2/L3)](https://github.com/rridane/public-notes-rr/blob/main/networking/linux_kernel_networking.adoc) — the RX/TX path rebuilt: NAPI, skb, bridge FDB, FIB, qdisc/tc
-* [Kubernetes networking from scratch](https://github.com/rridane/public-notes-rr/blob/main/devops/kubernetes_networking.adoc) — CNI from veth/bridge/VXLAN/Calico-BGP up to kube-proxy
-* [DNS, from zones to DNSSEC](https://github.com/rridane/public-notes-rr/blob/main/networking/protocols/dns/dns_advanced.adoc) — resolution, delegation, SPF/DKIM/DMARC, DNSSEC ([basics](https://github.com/rridane/public-notes-rr/blob/main/networking/protocols/dns/dns_basic_overview.adoc))
+* [HTTP/1 → HTTP/3 & gRPC](https://github.com/rridane/public-notes-rr/blob/main/networking/protocols/from_http_to_http3_and_grpc.adoc) — a deep dive on gRPC and HTTP/3, starting from HTTP/1 _(Advanced)_
+* [Linux kernel networking (L2/L3)](https://github.com/rridane/public-notes-rr/blob/main/networking/linux_kernel_networking.adoc) — how a packet travels through the Linux kernel, end to end _(Advanced)_
+* [Kubernetes networking from scratch](https://github.com/rridane/public-notes-rr/blob/main/devops/kubernetes_networking.adoc) — CNI, services, network policies, overlay/underlay _(Intermediate / Advanced)_
+* [DNS, from zones to DNSSEC](https://github.com/rridane/public-notes-rr/blob/main/networking/protocols/dns/dns_advanced.adoc) — from zones, TTL and resolution to delegations and DNSSEC ([basics](https://github.com/rridane/public-notes-rr/blob/main/networking/protocols/dns/dns_basic_overview.adoc)) _(Beginner → Advanced)_
 
 **🏗️ Software architecture & internals**
-* [Flutter framework internals](https://github.com/rridane/public-notes-rr/blob/main/frontend/flutter/deep_dive_flutter_internal_framework.adoc) — bindings, build/layout/paint pipeline, scheduler
-* [Flutter gesture handling](https://github.com/rridane/public-notes-rr/blob/main/frontend/flutter/deep_dive_gesture_handling.adoc) — hit testing, the gesture arena, event dispatch
-* [Authorization: RBAC → ABAC → ReBAC](https://github.com/rridane/public-notes-rr/blob/main/security/rbac.adoc) — models in depth, with a real access-governance story
+* [Flutter framework internals](https://github.com/rridane/public-notes-rr/blob/main/frontend/flutter/deep_dive_flutter_internal_framework.adoc) — the internal bindings, build pipeline, and scheduler mechanics _(Advanced)_
+* [Flutter gesture handling](https://github.com/rridane/public-notes-rr/blob/main/frontend/flutter/deep_dive_gesture_handling.adoc) — the gesture system: hit testing, gesture arena, and event dispatching _(Advanced)_
+* [Authorization: RBAC → ABAC → ReBAC](https://github.com/rridane/public-notes-rr/blob/main/security/rbac.adoc) — the main authorization models, explained _(Intermediate)_
 
 **🔐 Security & identity**
-* [OAuth2, hardened](https://github.com/rridane/public-notes-rr/blob/main/security/authentication_mechanisms/oauth2.adoc) — grant types + PKCE, DPoP, mTLS, FAPI
-* [SAML](https://github.com/rridane/public-notes-rr/blob/main/cheatsheets/saml_cheatsheet.adoc) — assertions, bindings, replay protection
+* [OAuth2](https://github.com/rridane/public-notes-rr/blob/main/security/authentication_mechanisms/oauth2.adoc) — authentication flows, grant types, best practices _(Fundamental)_
+* [SAML](https://github.com/rridane/public-notes-rr/blob/main/cheatsheets/saml_cheatsheet.adoc) — condensed reminders, assertions, and diagrams _(Cheat sheet)_
 
 **🗄️ Data & foundations**
-* [CloudNativePG — Postgres HA on Kubernetes](https://github.com/rridane/public-notes-rr/blob/main/databases/cloudnative-pg-operator.adoc) — failover state machine, quorum as R+W>N, backup/PITR
-* [Probability, Bernoulli → Bayes](https://github.com/rridane/public-notes-rr/blob/main/mathematics/probability/bayes.adoc) — the rigorous base under anomaly detection & AIOps
+* [CloudNativePG — Postgres HA on Kubernetes](https://github.com/rridane/public-notes-rr/blob/main/databases/cloudnative-pg-operator.adoc) — failover, backup, and replication on Kubernetes _(Advanced)_
+* [Probability, Bernoulli → Bayes](https://github.com/rridane/public-notes-rr/blob/main/mathematics/probability/bayes.adoc) — probability from the ground up _(Fundamental)_
 
 > 🔗 ~250 more in [public-notes-rr](https://github.com/rridane/public-notes-rr)
 
 ---
 
-> 🌍 **Open to staff / principal engineer & architect roles where deep systems engineering meets software architecture — with a focus on observability & AIOps — or to building something ambitious together.** → reach out by DM
+> 🌍 **Any role where deep systems engineering meets software architecture — especially around observability & AIOps — or something ambitious to build together? Feel free to reach out.**
 
 ![](https://hit.yhype.me/github/profile?account_id=34446644)
