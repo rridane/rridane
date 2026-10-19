@@ -1,10 +1,10 @@
 # rridane 
 
-Designing and building end-to-end systems, from resilient cloud-native backends to high-performance front-ends.
+> Designing and building end-to-end systems, from resilient cloud-native backends to high-performance front-ends.
 
 Here you'll find the tools I use daily to:
 
-- Build and operate a state-of-the-art cloud-native platform
+- Build and operate state-of-the-art cloud-native platforms
 - Improve developer experience and deployment metrics
 - Design high-performance applications, front to back
 - Mentor junior and senior engineers
